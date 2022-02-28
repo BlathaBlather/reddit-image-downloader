@@ -3,7 +3,7 @@
 const RedditImageFetcher = require("reddit-image-fetcher");
 const imageDownloader = require('node-image-downloader');
 // Set number of images to download (max 50)
-const number_of_images = 1;
+const number_of_images = 50;
 // Choose the subreddits to get images from
 const subreddits = ["195", "196"];
 // Log to console fetching post urls

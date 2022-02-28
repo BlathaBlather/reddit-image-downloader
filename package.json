@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "image-downloader": "^4.1.0",
+    "node-image-downloader": "^1.0.7",
+    "reddit-image-fetcher": "^2.0.10"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}

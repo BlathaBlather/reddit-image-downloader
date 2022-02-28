@@ -4,5 +4,7 @@ Change the number of images to download and subreddits to view with the constant
 
 Requires 
 
-```reddit-image-fetcher
-node-image-downloader```
+```
+reddit-image-fetcher
+node-image-downloader
+```
